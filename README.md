@@ -1,1 +1,0 @@
-# LangChain-Azure-ChatGPT
