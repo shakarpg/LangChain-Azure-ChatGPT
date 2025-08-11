@@ -1,9 +1,5 @@
 # Desafio DIO — Automatização da criação de testes unitários com LangChain + Azure ChatGPT
 
-> Projeto completo para entrega no desafio DIO. Inclui README, código-fonte, exemplo de execução e configuração de GitHub Actions.
-
----
-
 ## 📌 Visão Geral
 
 Este repositório demonstra como utilizar **LangChain** e **Azure OpenAI (ChatGPT)** para automatizar a criação de testes unitários em Python. O processo analisa funções e gera automaticamente arquivos de teste (`pytest`).
@@ -153,10 +149,5 @@ jobs:
 
 ---
 
-## Breve descrição para entrega na DIO
-"Projeto que demonstra como integrar LangChain com Azure ChatGPT para automatizar a criação de testes unitários em Python. Inclui script de geração, funções de exemplo e pipeline CI com GitHub Actions."
 
----
-
-✅ Pronto para clonar, configurar chaves e entregar!
 
